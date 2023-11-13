@@ -3,9 +3,6 @@
   "user_name": "Dhexter",
   "age": "20",
   "location": "Magalang, Pampanga",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
 
